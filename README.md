@@ -1,6 +1,6 @@
 # docs.djangoproject
 
-- Reference: [https://fastapi.tiangolo.com/learn](https://docs.djangoproject.com/en/5.0/)
+- Reference: [Django documentation](https://docs.djangoproject.com/en/5.0/)
 
 # Table of Content
 
