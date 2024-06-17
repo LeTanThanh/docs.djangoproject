@@ -5,6 +5,9 @@
 # Table of Content
 
 A. [First steps](https://docs.djangoproject.com/en/5.0/#first-steps)
+  * First Steps
+  * [Tutorial](https://github.com/LeTanThanh/django_tutorial)
+  * First Steps
 
 B. [Getting help](https://docs.djangoproject.com/en/5.0/#getting-help)
 
