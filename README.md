@@ -12,6 +12,10 @@ A. [First steps](https://docs.djangoproject.com/en/5.0/#first-steps)
 B. [Getting help](https://docs.djangoproject.com/en/5.0/#getting-help)
 
 C. [How the documentation is organized](https://docs.djangoproject.com/en/5.0/#how-the-documentation-is-organized)
+  * Tutorials
+  * [Topic guides](https://docs.djangoproject.com/en/5.0/topics/)
+  * [Reference guides](https://docs.djangoproject.com/en/5.0/ref/)
+  * [How-to guides](https://docs.djangoproject.com/en/5.0/howto/)
 
 D. [The model layer](https://docs.djangoproject.com/en/5.0/#the-model-layer)
 
