@@ -14,6 +14,13 @@ B. [Getting help](https://docs.djangoproject.com/en/5.0/#getting-help)
 C. [How the documentation is organized](https://docs.djangoproject.com/en/5.0/#how-the-documentation-is-organized)
   * Tutorials
   * [Topic guides](https://docs.djangoproject.com/en/5.0/topics/)
+    * How to install Django
+      * Install Python
+      * Install Apache and mod_wsgi
+      * Get your database running
+      * Install the Django code
+    * Models and databases
+      * Models
   * [Reference guides](https://docs.djangoproject.com/en/5.0/ref/)
   * [How-to guides](https://docs.djangoproject.com/en/5.0/howto/)
 
